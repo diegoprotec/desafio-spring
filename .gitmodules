@@ -1,0 +1,3 @@
+[submodule "spring-usuario-api"]
+	path = spring-usuario-api
+	url = https://github.com/diegoprotec/spring-usuario-api.git
