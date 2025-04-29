@@ -1,3 +1,6 @@
 [submodule "spring-usuario-api"]
 	path = spring-usuario-api
 	url = https://github.com/diegoprotec/spring-usuario-api.git
+[submodule "spring-cep-acl"]
+	path = spring-cep-acl
+	url = https://github.com/diegoprotec/spring-cep-acl.git
